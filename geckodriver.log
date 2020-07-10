@@ -1,0 +1,264 @@
+1594284817978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofileFvP6A7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594284822769	Marionette	INFO	Listening on port 53953
+1594284823207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594284899547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofilezM6H0B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594284906974	Marionette	INFO	Listening on port 54206
+1594284907381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.74e013fe.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 36408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 36408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 36408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594285639183	Marionette	INFO	Stopped listening on port 54206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594286512614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofilebGQ6gW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594286534706	Marionette	INFO	Listening on port 55919
+1594286535185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594286589246	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594307226040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofile47RzLJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594307270725	Marionette	INFO	Listening on port 62690
+1594307278484	Marionette	INFO	Stopped listening on port 62690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594307305439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofileRAC132"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594307314831	Marionette	INFO	Listening on port 62773
+1594307315069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.17f9a178.js, line 1: TypeError: e.response is undefined
+1594307374529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 25884, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594307892653	Marionette	INFO	Stopped listening on port 62773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594308446053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofile2vnD4B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 39032, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594308459752	Marionette	INFO	Listening on port 63838
+1594308460399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.17f9a178.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594308605288	Marionette	INFO	Stopped listening on port 63838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594308733463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofilezMpG29"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594308738925	Marionette	INFO	Listening on port 64322
+1594308739184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594308843835	Marionette	INFO	Stopped listening on port 64322
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594308971797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofileGfrJ4V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594308977054	Marionette	INFO	Listening on port 64592
+1594308977512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.17f9a178.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594309075401	Marionette	INFO	Stopped listening on port 64592
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594309266126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofileo24D7C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594309272846	Marionette	INFO	Listening on port 64877
+1594309272959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594309364988	Marionette	INFO	Stopped listening on port 64877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594309551468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofile8XDZ2A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594309558703	Marionette	INFO	Listening on port 65181
+1594309558787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.17f9a178.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 37348, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 37348, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 37348, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594309754825	Marionette	INFO	Stopped listening on port 65181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594311562386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofilePGzk79"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594311576577	Marionette	INFO	Listening on port 50466
+1594311578868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.17f9a178.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/chunk-vendors.a86d4e7d.js, line 6: Error: Request failed with status code 400
+[Parent 30088, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 30088, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 30088, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594311865243	Marionette	INFO	Stopped listening on port 50466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594352107310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofilenAkWMs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594352132829	Marionette	INFO	Listening on port 54144
+1594352132926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+1594352186447	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 38932, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594352267156	Marionette	INFO	Stopped listening on port 54144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594352330511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VANDAN~1\\AppData\\Local\\Temp\\rust_mozprofileLmq47p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594352343605	Marionette	INFO	Listening on port 54490
+1594352343714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/static/js/app.17f9a178.js, line 1: TypeError: e.response is undefined
+1594352388504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/es6-promise.auto.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/babel-polyfill.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://testscm.digicollect.com/js/priorityscroll/flexmenu.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: uncaught exception: undefined
+[Parent 21136, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594353810786	Marionette	INFO	Stopped listening on port 54490
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x5F0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
